@@ -59,4 +59,11 @@ v2 wins on criteria 2 and 4, ties on 1, 3, 5. Not a marginal tweak — a differe
 ## Status
 
 - Built, tested. NOT committed, NOT pushed, NOT bundled, NOT checked, NOT submitted (parent does that).
-- No claim code yet (none issued).
+- Submitted; claim code recorded in the Submission section.
+
+## Submission
+
+- Submission: 01a210c2-5cf4-7591-8df8-74d2d8d433c2
+- Commit: e8073702e8b5c0502bcabb189f9593c11b7a7266
+- Stage: checked
+- Claim code: AF-ASKNX-274QK-GKAEN-9THGT
